@@ -1,5 +1,5 @@
 //
-//  DFViewController.h
+//  DFTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Daren Fankhauser on 7/21/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DFViewController : UIViewController
+@interface DFTableViewController : UITableViewController
 
 @end
